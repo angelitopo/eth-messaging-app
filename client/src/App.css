@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+input {
+  margin-right: 10px;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
